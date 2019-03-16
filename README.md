@@ -1,6 +1,6 @@
 # quickcheck-demo
 
-This is a demostration of property-based testing in Haskell.
+This is a demonstration of property-based testing in Haskell.
 
 To run this demo, you'll need a working installation of the [Haskell Platform](https://www.haskell.org/platform/).
 
