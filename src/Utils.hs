@@ -13,5 +13,5 @@ insertInOrder x (y:ys) =
     then x : y : ys
     else y : insertInOrder x ys
 
-insertionSort [] = []
+insertionSort [x] = [x]
 insertionSort (x:xs) = insertInOrder x (insertionSort xs)
